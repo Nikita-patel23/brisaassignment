@@ -1,0 +1,5 @@
+.repo-row{
+    display:grid;
+    grid-template-columns: 50px 30px 20px;
+    
+}
